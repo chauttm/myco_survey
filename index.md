@@ -5,7 +5,7 @@
 - <a href="JOSS_Question_4.html" target="_blank">Is the name Eurotium still in use?</a>
 - <a href="JOSS_Question_5.html" target="_blank">What is the type of Talaromyces?</a>
 - <a href="JOSS_Question_6.html" target="_blank">How many species are accepted in Talaromyces?</a>
-- <a href="JOSS_Question_7.html" target="_blank">Give all accepted Aspergillus species starting with a 'a'</a>
+- <a href="JOSS_Question_7.html" target="_blank">Give all accepted Aspergillus species starting with an 'a'</a>
 - <a href="JOSS_Question_8.html" target="_blank">Which species belong to Aspergillus section Nigri?</a>
 - <a href="JOSS_Question_9.html" target="_blank">Can you list all accepted species in section Nigri?</a>
 - <a href="JOSS_Question_10.html" target="_blank">Why is Aspergillus section Flavi an important group of fungi?</a>

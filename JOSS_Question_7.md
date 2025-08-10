@@ -1,6 +1,6 @@
 # Question 7
 
-**Question:** Give all accepted Aspergillus species starting with a 'a'
+**Question:** Give all accepted Aspergillus species starting with an 'a'
 
 ## Generated Answers (20 responses)
 
